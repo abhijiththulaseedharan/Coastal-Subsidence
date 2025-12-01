@@ -38,12 +38,7 @@ This project integrates advanced geospatial techniques to quantify and contextua
 
 All the python scripts for processing and analysis are organized in the following dedicated folders:
 
-| Folder | Focus Area | Description |
-| :--- | :--- | :--- |
-| `01_PS_InSAR_Processing/` | **InSAR Processing** | Used |
-| `02_Sea_Level_Scripts/` | **Sea Level Analysis** | Holds the Python scripts for processing and analyzing satellite altimetry and tide gauge data. |
-| `03_LULC_Scripts/` | **Land Use & Land Cover** | Contains Python scripts for LULC classification, change detection, and accuracy assessment. |
-| `04_Geospatial_Overlay/` | **Thematic Analysis** | Scripts dedicated to performing **Geospatial Overlay** of subsidence maps with LULC and **lithological layers**. |
+
 
 
 ---
