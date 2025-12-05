@@ -1,12 +1,11 @@
-# 🌊 Coastal Subsidence, Sea Level Dynamics, and Environmental Change
 
-A comprehensive study utilizing **Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR)**, **satellite altimetry**, and **tide gauge** data to analyze **coastal subsidence** and **regional sea level dynamics**.
 
 ---
+<div style="text-align: justify;">
+  ## A comprehensive study utilizing **Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR), satellite altimetry, and **tide gauge** data to analyze coastal subsidence and **regional sea level dynamics.
+</div>
 
 ## 🧐 Overview & Objectives
-
-This project integrates advanced geospatial techniques to quantify and contextualize relative sea level change in coastal areas. The primary objectives are:
 
 1.  **Quantifying Ground Deformation:** Precisely measure millimeter-scale vertical ground motion using advanced PSInSAR techniques.
 2.  **Analyzing Sea Level Trends:** Determine regional sea level trends using long-term tide gauge records and satellite altimetry data.
@@ -14,31 +13,29 @@ This project integrates advanced geospatial techniques to quantify and contextua
 
 ---
 
-## 🛰️ Methodology & Data
+## Data used
 
 ### 1. **Line of Sight Velocity / Ground subsidence (mm/ year)**
 
 * **Technique:** **Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR)**.
-* **Data Source:** **251 images** of Sentinel-1A/B (C-Band SAR), downloaded from the **Alaska Satellite Facility (ASF) Vertex**.
+* **Data Source:** **251 images** of Sentinel-1A/B (C-Band SAR), downloaded from the **Alaska Satellite Facility (ASF) Vertex**. 
 
-### 2. **Sea Level Dynamics**
+### 2. **Regional Sea Level Dynamics**
 
 * **Data Sources:**
-    * **Satellite Altimetry:** Used for regional sea surface height and sea level trend analysis.
-    * **Tide Gauge Records:** Provides high-temporal-resolution local sea level data.
+    * **Satellite Altimetry:** From copernicus marine.
+    * **Tide Gauge Records:** Tide Gauge Station at Kochi.
 
 ### 3. **Environmental Context**
 
-* **LULC Change Detection:** Used to understand the spatial and temporal impact of **urbanization** and other land surface changes on ground stability.
-* **Lithological Influence:** The relationship between rock/soil type and subsidence is analyzed using **Geospatial Overlay analysis** with geological maps.
+* **LULC Change Detection:** Used to understand the spatial and temporal trends in **urbanization**. Utilized Landsat Imagery.
+* **Lithological Influence:** The relationship between Lithology, LULC and subsidence were analyzed using **Geospatial Overlay analysis** in ArcGIS.
+
 
 ---
 
-## 🛠️ Repository Structure
-
-All the python scripts for processing and analysis are organized in the following dedicated folders:
+## Codes used for the analysis are made available in the folder "Python Scripts"
 
 
-
-
+#### The datasets generated and/or analysed during this study are available upon reasonable request.
 ---
