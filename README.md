@@ -2,7 +2,7 @@
 
 ---
 <div style="text-align: justify;">
-  ## A comprehensive study utilizing **Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR), satellite altimetry, and **tide gauge** data to analyze coastal subsidence and **regional sea level dynamics.
+  ## A comprehensive study utilizing Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR), satellite altimetry, and tide gauge data to analyze coastal subsidence and regional sea level dynamics.
 </div>
 
 ## 🧐 Overview & Objectives
@@ -24,7 +24,7 @@
 
 * **Data Sources:**
     * **Satellite Altimetry:** From copernicus marine.
-    * **Tide Gauge Records:** Tide Gauge Station at Kochi.
+    * **Tide Gauge:** Tide Gauge records from Station at Kochi.
 
 ### 3. **Environmental Context**
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Codes used for the analysis are made available in the folder "Python Scripts"
+### Codes used for the analysis are made available in the folder "Python Scripts"
 
 
 #### The datasets generated and/or analysed during this study are available upon reasonable request.
