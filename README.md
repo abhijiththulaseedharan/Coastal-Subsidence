@@ -2,7 +2,7 @@
 
 ---
 <div style="text-align: justify;">
-  ## A comprehensive study utilizing Persistent Scatterer Interferometric Synthetic Aperture Radar (PS-InSAR), satellite altimetry, and tide gauge data to analyze coastal subsidence and regional sea level dynamics.
+  ## Coastal Subsidence and Relative Sea Level Rise in Kochi, South India; Insights from PS-InSAR, Tidal Gauge, and Satellite Altimetry Analyses
 </div>
 
 ## 🧐 Overview & Objectives
@@ -39,3 +39,6 @@
 
 #### The datasets generated and/or analysed during this study are available upon reasonable request.
 ---
+
+## License
+#### This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
