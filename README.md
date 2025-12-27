@@ -41,4 +41,4 @@
 ---
 
 ## License
-#### This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+#### This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
